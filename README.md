@@ -1,5 +1,5 @@
 # github-issues-pullrequests
-Introduction to GitHub Issues and Pull Requests
+Introduction to GitHub Issues and Pull Requests. We are also going to briefly demostrate Releases.
 
 ## Roadmap
 * v.0.0.1 - Updated Readme information
